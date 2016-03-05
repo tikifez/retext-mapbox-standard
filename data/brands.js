@@ -5,5 +5,5 @@ module.exports = {
     TIF: { replace: ['TIFF'] },
     MapBox: { cased: true, replace: ['Mapbox'] },
     JPG: { replace: ['JPG']},
-    Inkfish: { replace: ['Inkfish', 'zoinga']}
+    inkfish: { replace: ['Inkfish']}
 };
