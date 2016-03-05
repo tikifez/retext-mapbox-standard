@@ -16,5 +16,6 @@ module.exports = [
     'CORS',
     'JSON',
     'S3',
-    'AWS'
+    'AWS',
+    'Inkfish'
 ];
